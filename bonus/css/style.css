@@ -1,0 +1,44 @@
+[class^="col"]{
+  background-color: #393d6a;
+  min-height: 20px;
+}
+
+body {
+  background-color: #393d6a;
+}
+
+/* colors */
+.dark-purple {
+  background-color: #802a7e;
+}
+
+.light-purple {
+  background-color: #933193;
+}
+
+.light-green {
+  background-color: #64c107;
+}
+
+.medium-green {
+  background-color: #489402;
+}
+
+.dark-green {
+  background-color: #32610a;
+}
+
+.light-grey {
+  background-color: #403f40;
+}
+
+.dark-grey {
+  background-color: #2d332c;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  margin: 2rem 0;
+  color: #64c107;
+}
