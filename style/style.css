@@ -1,9 +1,18 @@
 [class^="col"]{
-  height: 50px;
   background-color: #006cfa;
   color: white;
   border: 1px solid white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  line-height: 10px;
+  text-align: center;
+  padding: 10px;
+  min-height: 30px;
+}
+
+.green {
+  background-color: #00e165;
+  border: 1px solid #006cfa;
+}
+
+.margin-bottom {
+  margin-bottom: 1rem;
 }
